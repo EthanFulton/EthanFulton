@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @EthanFulton
-- 👀 I’m interested in game development and cybersecurity
-- 🌱 I’m currently learning python and cybersecurity tools
-- 💞️ I’m looking to collaborate on beginner python projects
-- 📫 How to reach me: Discord @spookingtons
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cats!
+- 👀 I’m interested in computer science cybersecurity
+- 🌱 I’m currently learning cybersecurity tools, programming languages, and I've recently earned my CompTIA Security+ certification
+- ❗ Since most of my creations revolve around automation and ethical botting, most of my repositories are private
+- 📫 How to reach me:
+  Discord: @spookingtons
+  Email: jethanfulton@gmail.com
 
 <!---
 EthanFulton/EthanFulton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
